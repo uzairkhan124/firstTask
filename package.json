@@ -1,0 +1,24 @@
+{
+  "name": "first-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzairkhan124/firstTask.git"
+  },
+  "author": "uzair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzairkhan124/firstTask/issues"
+  },
+  "homepage": "https://github.com/uzairkhan124/firstTask#readme"
+}
